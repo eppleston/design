@@ -1,0 +1,3 @@
+# Jobs-to-Be-Done
+
+Understand user motivations using the JTBD framework. Core insight (Clayton Christensen, Tony Ulwick): people hire products to get a job done — focus on the job, not the product. Analyze motivations across three dimensions: Functional (practical task/outcome), Emotional (psychological state users want to experience or avoid), Social (desired impression or identity). Seven steps: uncover the fundamental task, analyze functional/emotional/social aspects, chart the complete job lifecycle, clarify success criteria for each dimension, document current solutions, identify gaps, present findings with actionable design recommendations.
