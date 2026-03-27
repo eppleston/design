@@ -1,0 +1,3 @@
+# Design Token
+
+Architecture for managing design tokens ensuring visual consistency. Three-tier hierarchy: Global tokens (raw values), Alias tokens (semantic meaning through references), Component tokens (scoped applications). Categories: color palettes and semantic references, spacing scales, typography foundations, elevation/shadow hierarchies, border properties, motion parameters. Key principle: never reference raw values in components. Start with global tokens before establishing semantic aliases, document usage contexts, maintain version control. Supports themability by keeping alias tokens deliberately abstract.

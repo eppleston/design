@@ -1,0 +1,3 @@
+# Theming System
+
+Create flexible design systems across multiple visual contexts. Three layers: global tokens (raw palette), semantic tokens (purpose-driven aliases where themes apply overrides), component tokens (scoped styling). Theme dimensions: color modes (light, dark, high contrast, dimmed), brand variants (primary brands, sub-brands, white-label, seasonal), density settings (comfortable, compact, spacious). Dark mode strategy: reduce luminance thoughtfully, use lighter surfaces for elevation not shadows, desaturate colors 10-20%, use off-white text. Implementation: CSS custom properties, theme-specific token files, Figma variable modes, runtime switching. Test all components in every theme, respect OS preferences, document which tokens are themeable vs fixed.

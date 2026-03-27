@@ -1,0 +1,3 @@
+# Naming Convention
+
+Establish structured naming conventions for design elements. Component pattern: "category/name/variant/state". Token pattern: "category-property-concept-variant-state" (hyphens). File pattern: "type-name-variant.ext". Five principles: Predictable, Consistent, Scalable, Scannable, Unambiguous. Context-specific: CSS uses kebab-case, React components use PascalCase, Props use camelCase, Icons use "icon-[name]-[size]". Avoid abbreviations only creators understand, inconsistent separators, or names reflecting visual appearance rather than function. Document centrally, automate validation, apply prefixes, validate in reviews.
