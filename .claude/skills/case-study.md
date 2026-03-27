@@ -1,0 +1,3 @@
+# Case Study
+
+Create portfolio-quality design case studies. Six sections: Overview (context and key metrics), Challenge (problem and constraints), Process (research and iteration), Solution (final design), Impact (results), Reflection (learnings). Principles: show the journey not just the final product (include sketches and iterations), lead with the most impressive outcome, be specific about individual vs team contributions. Writing: clear headings, concise paragraphs, first-person for personal contributions. Visual strategy: before/after comparisons, annotated design decisions, actual screenshots not polished mockups. Quantify impact whenever feasible. Demonstrate thinking and process rather than simply displaying finished work.

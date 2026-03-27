@@ -1,0 +1,3 @@
+# UX Writing
+
+Write effective interface copy. Core areas: Microcopy (button labels, form text, tooltips, placeholders), Error Messages (what happened, why, what comes next), Empty States (context and encouragement to act), Confirmation Messages (acknowledge action, suggest next steps), Onboarding Copy (progressive introduction without overwhelming), CTAs (action verbs, clear outcomes). Key principle: Clear over clever. Concise over comprehensive. Helpful over promotional. Voice (consistent brand personality) vs Tone (adapts contextually — celebratory, instructional, error). Write copy before designing interfaces, test with actual users, maintain terminology dictionary, avoid jargon/abbreviations/idioms, plan localization early.
