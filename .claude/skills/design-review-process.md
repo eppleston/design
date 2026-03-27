@@ -1,0 +1,3 @@
+# Design Review Process
+
+Four sequential review gates: Concept Review (problem definition and strategic alignment), Design Review (brand consistency and design system compliance), Pre-Handoff Review (completeness of specifications and states), Implementation QA (verifying execution against design intent). Three evaluation questions: Does the solution address user needs? Does it maintain consistency with the design system? Is it accessible and feasible? Approval workflow: designer self-review > peer feedback > design leadership > stakeholders > developer acceptance. Not every project needs every gate — scale to project size and risk. Use checklists for objectivity, time-box reviews to maintain momentum, document decisions for knowledge retention.

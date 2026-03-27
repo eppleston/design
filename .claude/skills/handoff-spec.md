@@ -1,0 +1,3 @@
+# Handoff Spec
+
+Create comprehensive developer handoff specifications. Visual elements: spacing, colors using token names, typography details, responsive behaviors. Interaction specs: all component states (default, hover, focus, active, disabled), transitions, animations. Include character limits and truncation behavior, dynamic content rules, localization needs. Asset delivery: proper icon naming conventions and format specifications. Key principles: use design tokens not raw values, include all states not just the happy path, cover minimum/maximum content scenarios, browser-specific considerations, full accessibility requirements. Annotate behavior rather than appearance alone. Make specifications practical guides for implementation.
