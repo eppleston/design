@@ -1,0 +1,3 @@
+# State Machine
+
+Model UI behavior using state machines. Components: States (distinct modes: idle, loading, success, error), Events (what triggers transitions), Transitions (movement between states), Actions (what happens during transitions). Key advantage: eliminates impossible states (no loading + error simultaneously). Process: enumerate all possible conditions, map what triggers movement between them. Example form workflow: initial > editing > validating > processing > complete or failed. Keep each state machine narrowly focused on one responsibility, document flow visually, ensure no state is a dead-end.

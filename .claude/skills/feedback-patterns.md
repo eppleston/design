@@ -1,0 +1,3 @@
+# Feedback Patterns
+
+Keep users informed and confident through systematic feedback. Four types: Immediate (button state changes, input validation), Confirmation (success toast/snackbar after action), Status (progress indicators, activity markers), Notification (badges, banners). Channels: visual (colors, icons, animations), textual messages, audio cues, haptic responses. Placement hierarchy: inline/contextual first, then component-level, page-level, system-level. Timing: toasts auto-dismiss after 3-5 seconds, errors remain until resolved. Principles: acknowledge all user actions, match feedback intensity to action significance, avoid unnecessary interruptions, ensure accessibility through multi-modal communication, never rely solely on color.

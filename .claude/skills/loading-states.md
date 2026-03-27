@@ -1,0 +1,3 @@
+# Loading States
+
+Design effective loading experiences. Core principle: show something immediately, never a blank screen. Patterns: Skeleton Screens (layout structure with shimmer), Progress Indicators (indeterminate spinners for unknown duration, progress bars for measurable), Progressive Enhancement (critical content first, defer below-fold), Optimistic Updates (show expected outcome immediately, reconcile with server), Placeholder Content (appropriately-sized visuals). Timing thresholds: under 100ms no indicator needed, 100ms-1s subtle indicator, 1-10s clear loading state, over 10s detailed progress. Avoid layout shifts, use staggered animations (30-50ms), fade content smoothly, respect prefers-reduced-motion.

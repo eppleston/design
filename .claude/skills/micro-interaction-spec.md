@@ -1,0 +1,3 @@
+# Micro-Interaction Spec
+
+Design micro-interactions with four pillars: Trigger (user action, system event, or conditional logic), Rules (sequence, conditions, branching behavior), Feedback (visual change in color/size/position, motion/animation/transition, audio, haptic vibration patterns), Loops and Modes (repetition patterns, first-time vs recurring interactions). Duration: typically 100-500ms, immediate response to input. Accessibility: accommodate reduced-motion preferences, test on actual devices. Common patterns: toggle switches, pull-to-refresh, celebration animations, form validation feedback.
