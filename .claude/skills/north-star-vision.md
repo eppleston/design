@@ -1,0 +1,3 @@
+# North Star Vision
+
+Develop compelling product vision uniting teams and directing strategic decisions. Four elements: Vision Statement (one sentence — who benefits, what experience, why it matters), Design Pillars (3-5 strategic priorities), Vision Scenarios (narrative descriptions of future experience), Success Criteria (qualitative signals and measurable metrics). Three horizons: near-term (1 year), mid-term (2-3 years), long-term (5+ years). Process: research, collaborative workshops, storytelling, stakeholder validation, ongoing communication. Vision should be inspiring but grounded in real needs, broad enough for unknowns, connected to daily work through pillars, and used actively in reviews and planning.

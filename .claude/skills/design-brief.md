@@ -1,0 +1,3 @@
+# Design Brief
+
+Structure design briefs with seven sections: Project Overview (name, context, stakeholders), Problem Statement (what's broken, who's affected, why it matters), Target Audience (primary and secondary users with characteristics), Goals and Success Criteria (measurable outcomes and qualitative markers), Scope and Constraints (technical, brand, timeline, legal), Context and Inputs (research, competitive landscape, prior efforts), Deliverables and Timeline (outputs, checkpoints, milestones). Keep briefs concise but complete. Include quantifiable success metrics. Obtain stakeholder alignment before commencing work. Use the brief as a reference document throughout project execution.

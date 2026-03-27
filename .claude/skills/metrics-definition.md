@@ -1,0 +1,3 @@
+# Metrics Definition
+
+Establish UX metrics linking design decisions to measurable outcomes. Four categories: behavioral (task completion, error rates), attitudinal (satisfaction scores), business (conversion rates), engagement (daily active users). HEART framework: satisfaction, interaction frequency/depth, feature adoption, retention, task completion/efficiency/accuracy. Limit to 3-5 primary metrics, establish baselines before changes, link metrics to specific design hypotheses, pair quantitative with qualitative research. Document each metric: name, definition, measurement methodology, data source, success target, measurement cadence, responsible party.

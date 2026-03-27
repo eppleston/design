@@ -1,0 +1,3 @@
+# Experience Map
+
+Create experience maps showing the entire ecosystem of user interactions across touchpoints, channels, and time. Six horizontal phases from awareness through advocacy or departure. Vertical layers: user actions, emotional states, pain points, growth opportunities. Map dimensions: touchpoints (website, app, email, support), channels (desktop, mobile, in-person), relational ecosystem (how touchpoints connect, data flow, human-automated handoffs). Best for new product launches, omnichannel strategy, cross-functional alignment. Critical practice: map current state before future state.

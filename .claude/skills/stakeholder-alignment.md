@@ -1,0 +1,3 @@
+# Stakeholder Alignment
+
+Create structured alignment with stakeholders on organizational decisions and design choices. Five artifacts: Stakeholder Map (influence vs interest), RACI Matrix (Responsible, Accountable, Consulted, Informed), Decision Framework (what needs input, who decides, how to resolve disagreements), Communication Plan (timing, channels, feedback windows), Feedback Protocol (collecting input, prioritization, conflict resolution). Map stakeholders at kickoff, establish decision rights before conflict. Common obstacles: stakeholders directly influencing solutions, misaligned priorities, unexpected scope changes, undiscovered stakeholders. Use proactive communication and documented decision rationale.
