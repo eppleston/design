@@ -1,0 +1,3 @@
+# A/B Test Design
+
+Design rigorous A/B experiments. Five elements: Hypothesis ("If we [change], then [outcome] will [improve/decrease] because [rationale]"), Variants (control vs single treatment, one variable at a time), Metrics (one primary success measure, secondary and guardrail metrics), Statistical Rigor (sample size calculated from minimum detectable effect, baseline rates, 95% significance, 80% power), Duration (run until target sample, account for weekly cycles, minimum 1-2 weeks). Avoid: peeking before completion, sample size too small, novelty effects, premature stopping. Not appropriate for low-traffic, ethically questionable situations, or foundational changes. Document thoroughly, analyze segments post-hoc, share findings regardless of direction.

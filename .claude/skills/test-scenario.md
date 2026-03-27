@@ -1,0 +1,3 @@
+# Test Scenario
+
+Create effective usability test scenarios with realistic tasks, clear success criteria, and structured observation guides. Four elements: Context Setting (brief realistic backstory without leading), Task (action-oriented goal avoiding UI terminology), Success Criteria (completion status, timing, errors, difficulty ratings), Observation Guide (hesitations, navigation choices). Principles: use participant's language not product jargon, give motivation not instructions, order simple to complex, include warm-up. Four task types: exploratory (information-finding), specific (goal completion), comparative (choosing between options), open-ended (multiple valid paths). Create more scenarios than needed, pilot beforehand, prepare follow-up questions.

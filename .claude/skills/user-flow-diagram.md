@@ -1,0 +1,3 @@
+# User Flow Diagram
+
+Create user flow diagrams visualizing how users navigate through products. Standard shapes: circles (entry/exit), rectangles (screens), diamonds (decisions), rounded rectangles (actions), barred rectangles (system processes). Labeled arrows indicate triggers. Start with the happy path first, then add complexity. Include: primary user journey, decision branches, error handling paths, background system operations. Three types: task flows (linear single paths), user flows (multiple paths by user type/choice), wire flows (flow + wireframe mockups). Principles: one flow per user goal, map error and edge cases, keep readable without excessive branching, consistent notation, label every connector with what triggers the transition.
