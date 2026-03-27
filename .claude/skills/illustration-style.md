@@ -1,0 +1,3 @@
+# Illustration Style
+
+Develop a comprehensive illustration system. Style dimensions: geometric vs organic, flat vs dimensional, detail levels, representation approaches. Color: subset of product color palette with primary/secondary/accent colors, gradient guidance, dark mode variants. Six application contexts: spot illustrations (UI elements), hero illustrations (storytelling), empty states, onboarding sequences, error states, character design. Maintain consistency across all illustrations, create reusable element libraries, test at intended display sizes. Do not convey information only through illustrations (accessibility). Document sizing constraints, grid alignment, animation guidelines, and when/how to use illustrations.

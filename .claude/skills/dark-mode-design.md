@@ -1,0 +1,3 @@
+# Dark Mode Design
+
+Design effective dark mode interfaces through thoughtful redesign, not simple inversion. Surface hierarchy: progressive lightening from darkest background (#121212) through three surface levels. Color: desaturate vibrant colors 10-20%, use off-white text (#E0E0E0) not pure white, dim images slightly, provide dark variants for illustrations. Accessibility: minimum 4.5:1 contrast for body text, respect prefers-color-scheme, offer manual toggle. Use lighter surfaces for elevation (not shadows). Use semantic design tokens for consistent switching. Test components individually in actual dark environments, ensure smooth mode transitions.

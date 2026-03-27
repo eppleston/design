@@ -1,0 +1,3 @@
+# Typography Scale
+
+Build systematic typographic design systems. Size structure: mathematical ratio (1.25 or 1.333) from captions (12px) through display (48-64px), 16px base body size. Four weight levels (400-700). Line-height: tight 1.2 (headings), normal 1.5 (body text). Letter spacing: tight (-0.02em) to wide (0.05em). Responsive: scale headings down on mobile, preserve minimum 16px body, maintain 45-75 character line length. Limit active sizes to 4-5 options, use mathematical ratios, test with actual content. Font selection: primary for body/UI, optional secondary for headings, monospace for technical elements.
