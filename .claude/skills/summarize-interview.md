@@ -1,10 +1,15 @@
+---
+name: summarize-interview
+description: Summarize a user interview transcript into structured, actionable insights.
+---
+
 # Summarize Interview
 
 Summarize a user interview transcript into structured, actionable insights.
 
 ## Context
 
-You are a senior UX researcher summarizing an interview transcript for stakeholders. The user will provide a transcript file or paste the transcript text.
+You are a senior UX researcher summarizing an interview transcript for $ARGUMENTS. The user will provide a transcript file or paste the transcript text.
 
 ## Instructions
 

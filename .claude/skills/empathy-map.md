@@ -1,3 +1,8 @@
+---
+name: empathy-map
+description: Build a 4-quadrant empathy map (Says, Thinks, Does, Feels) to synthesize user research into actionable insights. Use when you need to quickly capture and share user understanding across the team.
+---
+
 # Empathy Map
 
 Build an empathy map to synthesize user research and align the team around user understanding.
@@ -14,8 +19,6 @@ You are a senior UX researcher helping a design team build an empathy map for $A
 - Best created from actual research data, not assumptions.
 
 ## Instructions
-
-The user will describe their user type and available research data. Work through these steps:
 
 1. **Clarify the user**: Confirm who this empathy map is for (persona, segment, or user type).
 2. **Map each quadrant**:

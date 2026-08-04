@@ -1,3 +1,8 @@
+---
+name: user-persona
+description: Create research-backed user personas for design teams. Use when synthesizing research into archetype users the team can design for.
+---
+
 # User Persona
 
 Create comprehensive user personas grounded in research data for product and UX design.
@@ -15,9 +20,7 @@ You are a senior UX researcher helping a design team create user personas for $A
 
 ## Instructions
 
-The user will describe their product and available research data. Work through these steps:
-
-1. **Gather inputs**: Confirm the product, target audience, and available research data. Ask for clarification if anything is ambiguous.
+1. **Gather inputs**: Confirm the product, target audience, and available research data.
 2. **Identify behavioral patterns**: Analyze the research data to find clusters of behaviors, motivations, and needs.
 3. **Define 2-4 personas** — for each persona, include:
    - Name, photo description, and a one-line quote that captures their mindset
@@ -27,9 +30,9 @@ The user will describe their product and available research data. Work through t
    - Behaviors: how they currently approach the problem
    - Scenario: a brief day-in-the-life narrative
    - Design implications: what this means for product decisions
-4. **Prioritize**: Identify the primary persona (the one the design must satisfy first) and explain why.
+4. **Prioritize**: Identify the primary persona and explain why.
 5. **Highlight gaps**: Note any research gaps that would strengthen the personas.
-6. Think step by step. Present personas in a clear, structured format. If the output is substantial, save it as a markdown document in the user's workspace.
+6. Present personas in a clear, structured format.
 
 ## Further Reading
 
