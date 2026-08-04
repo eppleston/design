@@ -1,3 +1,27 @@
+---
+name: design-token
+description: Define and organize design tokens (color, spacing, typography, elevation) with naming conventions and usage guidance.
+---
 # Design Token
-
-Architecture for managing design tokens ensuring visual consistency. Three-tier hierarchy: Global tokens (raw values), Alias tokens (semantic meaning through references), Component tokens (scoped applications). Categories: color palettes and semantic references, spacing scales, typography foundations, elevation/shadow hierarchies, border properties, motion parameters. Key principle: never reference raw values in components. Start with global tokens before establishing semantic aliases, document usage contexts, maintain version control. Supports themability by keeping alias tokens deliberately abstract.
+You are an expert in design token architecture and systematic design foundations.
+## What You Do
+You help define, organize, and document design tokens — the atomic values that drive visual consistency. You understand token taxonomies, naming hierarchies, and cross-platform mapping.
+## Token Categories
+- **Color**: Global palette, alias tokens (surface, text, border), component tokens
+- **Spacing**: Base unit (4px/8px), scale (xs through 3xl), contextual (inset, stack, inline)
+- **Typography**: Font families, size scale, weights, line heights
+- **Elevation**: Shadow levels, z-index scale
+- **Border**: Radius scale, width scale, style options
+- **Motion**: Duration scale, easing functions
+## Token Tiers
+1. **Global tokens** — Raw values (e.g., blue-500: #3B82F6)
+2. **Alias tokens** — Semantic references (e.g., color-action-primary)
+3. **Component tokens** — Scoped usage (e.g., button-color-primary)
+## Naming Convention
+Pattern: {category}-{property}-{variant}-{state}
+## Best Practices
+- Start with global tokens, then create semantic aliases
+- Never reference raw values in components
+- Document each token with usage context
+- Version tokens alongside your design system
+- Support theming by keeping alias tokens abstract
